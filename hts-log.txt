@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 04 Oct 2024 10:11:41 at https://www.spheretheme.com/html/steam/index-1.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.spheretheme.com/html/steam/index-1.html -O1 "C:\cooking" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:11:44	Warning: 	Note: due to https://www.spheretheme.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+10:13:30	Warning: 	File not parsed, looks like binary: https://www.spheretheme.com/html/steam/assets/libs/icofont/fonts/icofont.eot?v=1.0.0-beta
+10:13:30	Warning: 	File not parsed, looks like binary: https://www.spheretheme.com/html/steam/assets/libs/icofont/fonts/icofont.ttf?v=1.0.0-beta
+10:13:30	Warning: 	File not parsed, looks like binary: https://www.spheretheme.com/html/steam/assets/libs/icofont/fonts/icofont.woff?v=1.0.0-beta
+10:13:48	Warning: 	File not parsed, looks like binary: https://www.spheretheme.com/html/steam/assets/libs/mb.YTPlayer/css/font/ytp-regular.eot
+10:13:49	Error: 	"Not Found" (404) at link https://www.spheretheme.com/html/steam/popper.js (from https://www.spheretheme.com/html/steam/assets/libs/bootstrap-4.5.0/js/bootstrap.min.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 8 seconds : 172 links scanned, 170 files written (17264291 bytes overall) [16029692 bytes received at 125231 bytes/sec], 1478803 bytes transferred using HTTP compression in 26 files, ratio 10%, 24.5 requests per connection
+(1 errors, 5 warnings, 0 messages)
